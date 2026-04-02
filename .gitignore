@@ -1,0 +1,11 @@
+
+/Logisim/
+
+
+!homework1/Logisim/
+
+
+*.jar
+
+*.vcd
+dump.vcd
